@@ -1,0 +1,21 @@
+c:\users\admin\documents\visual studio 2015\Projects\CPC - Assignment\CPC - Assignment\bin\Debug\CPC - Assignment.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\CPC - Assignment\CPC - Assignment\bin\Debug\CPC - Assignment.exe
+c:\users\admin\documents\visual studio 2015\Projects\CPC - Assignment\CPC - Assignment\bin\Debug\CPC - Assignment.pdb
+c:\users\admin\documents\visual studio 2015\Projects\CPC - Assignment\CPC - Assignment\obj\Debug\CPC - Assignment.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\CPC - Assignment\CPC - Assignment\obj\Debug\CPC___Assignment.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\CPC - Assignment\CPC - Assignment\obj\Debug\CPC___Assignment.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\CPC - Assignment\CPC - Assignment\obj\Debug\CPC - Assignment.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\CPC - Assignment\CPC - Assignment\obj\Debug\CPC - Assignment.exe
+c:\users\admin\documents\visual studio 2015\Projects\CPC - Assignment\CPC - Assignment\obj\Debug\CPC - Assignment.pdb
+C:\Users\Admin\Desktop\CPC\CPC - Assignment- semCom\CPC - Assignment\bin\Debug\CPC - Assignment.exe.config
+C:\Users\Admin\Desktop\CPC\CPC - Assignment- semCom\CPC - Assignment\obj\Debug\CPC - Assignment.exe
+C:\Users\Admin\Desktop\CPC\CPC - Assignment- semCom\CPC - Assignment\obj\Debug\CPC - Assignment.pdb
+C:\Users\Admin\Desktop\CPC\CPC - Assignment- semCom\CPC - Assignment\bin\Debug\CPC - Assignment.exe
+C:\Users\Admin\Desktop\CPC\CPC - Assignment- semCom\CPC - Assignment\bin\Debug\CPC - Assignment.pdb
+C:\Users\Admin\Desktop\CPC\CPC - Assignment- semCom\CPC - Assignment\obj\Debug\CPC - Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\CPC\CPC - Assignment- semCom\CPC - Assignment\obj\Debug\CPC___Assignment.Form1.resources
+C:\Users\Admin\Desktop\CPC\CPC - Assignment- semCom\CPC - Assignment\obj\Debug\CPC___Assignment.Properties.Resources.resources
+C:\Users\Admin\Desktop\CPC\CPC - Assignment- semCom\CPC - Assignment\obj\Debug\CPC - Assignment.csproj.GenerateResource.Cache
+D:\APIIT\APIIT - Projects\CPC\CPC - Assignment- semCom\CPC - Assignment\bin\Debug\CPC - Assignment.exe.config
+D:\APIIT\APIIT - Projects\CPC\CPC - Assignment- semCom\CPC - Assignment\obj\Debug\CPC - Assignment.exe
+D:\APIIT\APIIT - Projects\CPC\CPC - Assignment- semCom\CPC - Assignment\obj\Debug\CPC - Assignment.pdb
